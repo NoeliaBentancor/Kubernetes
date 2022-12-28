@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-probe": "^1.0.6"
+  },
+  "name": "kubernetes",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoeliaBentancor/Kubernetes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoeliaBentancor/Kubernetes/issues"
+  },
+  "homepage": "https://github.com/NoeliaBentancor/Kubernetes#readme",
+  "devDependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
